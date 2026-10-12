@@ -106,8 +106,9 @@ const chinmay = {
 ## `connect.with(me)`
 
 - **GitHub:** [@chinmaypg001-sys](https://github.com/chinmaypg001-sys)
-- **LinkedIn:** Add your profile URL here if you want to display it publicly.
-- **Email:** Add a professional email address here if you want to display it publicly.
+- **LinkedIn:** (https://www.linkedin.com/in/chinmay-gavade-1b2130228?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+.
+- **Email:**(chinmay.p.g001@gmail.com).
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,50:111B4D,100:050816" width="100%" alt="Neon footer" />
